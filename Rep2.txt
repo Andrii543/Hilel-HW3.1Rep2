@@ -1,1 +1,3 @@
 Create .gitignore with help IDE
+
+Added file .gitignore with help Visual Studia
